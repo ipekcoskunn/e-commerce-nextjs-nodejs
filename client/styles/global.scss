@@ -1,0 +1,7 @@
+body {
+    color: $text-color;
+    background-color: $primary-color;
+}
+
+@import 'colors';
+@import './pages/home.scss'
